@@ -17,6 +17,7 @@ To receive full credit you must:
 **All components of this problem set are due by Friday, September 1, by 11:59pm Boston time.**
 
 *Note: Please don't try to commit changes to the repo. Homework should be turned in via Canvas for this class.*
+
 ---
 
 ### Part 1: Make a personalized slide
