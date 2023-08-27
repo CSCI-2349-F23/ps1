@@ -29,10 +29,10 @@ To receive full credit you must:
 2. Submit this **PDF** to Canvas for Problem Set 1. *Note: You will not get full credit if you submit a PowerPoint or a link to a Google Slides presentation. You must submit a **PDF**.*
 
 ### Part 2: Take the course survey
-[Take this short survey.](https://forms.gle/P6YQDRKZX2HxS7D37)
+[Take this short survey.](https://forms.gle/mgVFe6LHbTUw1xpL6)
 
 ### Part 3: Get started on Slack
-[Follow this link to join the Slack organization for this class](https://join.slack.com/t/csci1101-05fall22/shared_invite/zt-1f065l9zo-55jcSfX5olRbRQotioT58w). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the #general channel. Don't forget to @prudhome if you need my attention.
+[Follow this link to join the Slack organization for this class](https://join.slack.com/t/csci2349textp-swy7447/shared_invite/zt-21lk8o7lf-RvjgY9hkt0f35gz9N0MTgQ). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the #general channel. Don't forget to @prudhome if you need my attention.
 
 ### Part 4: Log into our remote linux server
 You should have received an email from our systems administrator, Phil Temples, with a username and password for the CS Lab server. If you have not received this email yet, email me (prudhome@bc.edu) right away. You will be using a program called ssh to access our linux server. Mac users already have ssh installed as part of the Terminal application. Windows users will have to jump through hoops to get access to ssh. Please see the instructions below under Windows Users.
