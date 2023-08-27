@@ -39,28 +39,49 @@ You should have received an email from our systems administrator, Phil Temples, 
 
 
 #### 4a. Mac Users
-Launch the Terminal application. If you are not sure how to find the Terminal application, you can find it by going up to the magnifying glass in the upper right corner of your screen and then entering "Terminal" in the search bar. The Terminal app will show up in a list of things matching your search. Click on it, and the Terminal app will launch. You will see a Terminal window like this.
+Launch the Terminal application. If you are not sure how to find the Terminal application, you can find it by going up to the magnifying glass in the upper right corner of your screen and then entering "Terminal" in the search bar. The Terminal app will show up in a list of things matching your search. Click on it, and the Terminal app will launch. You can now follow the instructions in 4c, below.
 
 
 #### 4b. Windows Users
 
 One of the following things should get ssh ready to go. Unfortunately, since Windows machines are all different, depending on how the manufacturer of the computer decided to configure things, there's no way for me to know which of the following will work for you.
 
-* Check to see if you have SSH already installed on your computer. Follow these instructions to open a Command window, and then type `ssh`. If it says something like "command not found" then you don't already have ssh installed. If it says something like "usage: blah blah...", then you do have ssh installed. Proceed to 4c, below.
+* Check to see if you have SSH already installed on your computer. [Follow these instructions to open a cmd window](https://en.wikiversity.org/wiki/Command_Prompt/Open), and then type `ssh`. If it says something like "command not found" then you don't already have ssh installed. If it says something like "usage: blah blah...", then you do have ssh installed. Proceed to 4c, below.
 * If that didn't work, Install the Windows Linux Subsystem [as described here](https://learn.microsoft.com/en-us/windows/wsl/install).
 * If you aren't able to install Windows Linux Subsystem yourself, go to the [help center in O'Neill Library](https://libguides.bc.edu/oneill-tech-help) and tell them you need to install or activate the Windows Linux Subsystem on your computer.
 * If they can't help you, see if you can install the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
-* Finally, if none of those things work, then install [this very trusted third-party app, Putty](https://www.ssh.com/academy/ssh/putty/windows/install).
+* If none of the above options works, see me.
 
+#### 4c. Using ssh to connect to the linux server.
+After getting yourself a terminal with the Terminal, WLS, cmd, or Windows Terminal, you should see a prompt. This is what it looks like on Mac:
 
+1. If you are off campus connect to the VPN.
+2. Connect to our linux server by typing the following, replacing `yourusername` with your user name (i.e., what comes before the @ in your BC email address when it's not your full name; in my case, it's `prudhome`).
+
+```
+ssh yourusername@cslab.bc.edu
+```
+You are now connected to the CS departmnt's linux server.
 
 ### Part 5: Try out some unix commands!
+You will be using the commands that were demonstrated in class on Wednesday, but you can find information about these commands in the readings and try this our yourself. If you have already taken Computer Systems, this should all be review.
 
-1. 
+1. Print out your current directory.
+2. List the contents of your current directory.
+3. Use `echo` to print out the words "Hello, World!" and direct it to a new file called `newfile.txt`.
+4. Create a new directory called `my_files`.
+5. List the contents of `my_files`.
+6. Move `newfile.txt` to the `my_files` directory.
+7. Move into the `my_files` directory.
+8. Print out the current directory.
+9. Make a copy of `newfile.txt` called `newfile_cooy.txt`.
+10. Make a new directory inside `my_files` called `copies`.
+11. Move `newfile_copy.txt` to `copies`.
+12. List the contents of the `copies` directory.
+13. Go back to your home directory.
+14. Create a `.tgz` file that contains the contenbts of the `my_files` directory called `my_files.tgz`.
 
-5. Take a screenshot of your IDLE window showing that you typed these commands, and submit it to the Canvas assignment for Problem Set 1.
-
-### Part 6: Creat a screen capture video
+### Part 6: Create a screen capture video
 
 
 
