@@ -105,7 +105,7 @@ and they will check in your home directories to see if you did everything correc
 * Submit the slide from Part 1 to Canvas.
 * Complete the course survey from Part 2.
 * Post a message on Slack for Part 3.
-* Submit the screen capture video to Canvas.
+* Submit the screen capture video from Part 6 to Canvas.
 
 **All components of this problem set are due by Friday, September 1, by 11:59pm Boston time.**
 
