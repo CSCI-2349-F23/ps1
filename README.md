@@ -18,6 +18,9 @@ To receive full credit you must:
 
 *Note: Please don't try to commit changes to the repo. Homework should be turned in via Canvas for this class.*
 
+
+
+
 ---
 
 ### Part 1: Make a personalized slide
