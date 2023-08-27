@@ -39,18 +39,18 @@ You should have received an email from our systems administrator, Phil Temples, 
 
 
 #### 4a. Mac Users
-1. Launch the Terminal application. If you are not sure how to find the Terminal application, you can find it by going up to the magnifying glass in the upper right corner of your screen and then entering "Terminal" in the search bar. The Terminal app will show up in a list of things matching your search. Click on it, and the Terminal app will launch. You will see a Terminal window like this.
+Launch the Terminal application. If you are not sure how to find the Terminal application, you can find it by going up to the magnifying glass in the upper right corner of your screen and then entering "Terminal" in the search bar. The Terminal app will show up in a list of things matching your search. Click on it, and the Terminal app will launch. You will see a Terminal window like this.
 
 
 #### 4b. Windows Users
 
 One of the following things should get ssh ready to go. Unfortunately, since Windows machines are all different, depending on how the manufacturer of the computer decided to configure things, there's no way for me to know which of the following will work for you.
 
-1. Check to see if you have SSH already installed on your computer. Follow these instructions to open a Command window, and then type `ssh`. If it says something like "command not found" then you don't already have ssh installed. If it says something like "usage: blah blah...", then you do have ssh installed. Proceed to 4c, below.
-2. Install the Windows Linux Subsystem [as described here](https://learn.microsoft.com/en-us/windows/wsl/install).
-3. If you aren't able to do the above, go to the [help center in O'Neill Library](https://libguides.bc.edu/oneill-tech-help) and tell them you need to install or activate the Windows Linux Subsystem on your computer.
-4. If they can't help you, see if you can install the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
-5. Finally, if none of those things work, then install [this very trusted third-party app, Putty](https://www.ssh.com/academy/ssh/putty/windows/install).
+* Check to see if you have SSH already installed on your computer. Follow these instructions to open a Command window, and then type `ssh`. If it says something like "command not found" then you don't already have ssh installed. If it says something like "usage: blah blah...", then you do have ssh installed. Proceed to 4c, below.
+* If that didn't work, Install the Windows Linux Subsystem [as described here](https://learn.microsoft.com/en-us/windows/wsl/install).
+* If you aren't able to install Windows Linux Subsystem yourself, go to the [help center in O'Neill Library](https://libguides.bc.edu/oneill-tech-help) and tell them you need to install or activate the Windows Linux Subsystem on your computer.
+* If they can't help you, see if you can install the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
+* Finally, if none of those things work, then install [this very trusted third-party app, Putty](https://www.ssh.com/academy/ssh/putty/windows/install).
 
 
 
