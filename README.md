@@ -58,7 +58,9 @@ One of the following things should get ssh ready to go. Unfortunately, since Win
 * If none of the above options works, see me.
 
 #### 4c. Using ssh to connect to the linux server.
-After getting yourself a terminal with the Terminal, WLS, cmd, or Windows Terminal, you should see a prompt. This is what it looks like on Mac:
+After getting yourself a terminal with the Terminal, WLS, cmd, or Windows Terminal, you should see a prompt. This is what it looks like on my Mac:
+
+
 
 1. If you are off campus connect to the VPN.
 2. Connect to our linux server by typing the following, replacing `yourusername` with your user name (i.e., what comes before the @ in your BC email address when it's not your full name; in my case, it's `prudhome`).
@@ -66,10 +68,12 @@ After getting yourself a terminal with the Terminal, WLS, cmd, or Windows Termin
 ```
 ssh yourusername@cslab.bc.edu
 ```
-You are now connected to the CS departmnt's linux server.
+You are now connected to the CS department's linux server.
+
+3. If this is your first time logging in, change your password immediately. Type the command `passwd`, then follow the instructions provided.
 
 ### Part 5: Try out some unix commands!
-You will be using the commands that were demonstrated in class on Wednesday, but you can find information about these commands in the readings, through a web search, or using the `man` function on any unix command. If you have already taken Computer Systems, most of this should be review.
+You will be using the commands that were/will be demonstrated in class on Wednesday, but you can find information about these commands in the readings, through a web search, or using the `man` function on any unix command. If you have already taken Computer Systems, most of this should be review.
 
 1. Print out your current directory.
 2. List the contents of your current directory.
