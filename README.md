@@ -84,15 +84,14 @@ You will be using the commands that were demonstrated in class on Wednesday, but
 11. Move `newfile_copy.txt` to `copies`.
 12. List the contents of the `copies` directory.
 13. Go back to your home directory.
-14. Create a `.tgz` file that contains the contenbts of the `my_files` directory called `my_files.tgz`.
+14. Create a `.tgz` file that contains the contents of the `my_files` directory called `my_files.tgz`.
 15. In your home directory, create a directory called `junk`, and move everything you've created into that directory.
 
 
 ### Part 6: Create a screen capture video
 
-Once you've practiced all the commands above, and you feel like you can do everything without looking and thinking, start from command 1, 
-and take a video of your screen showing you executing all the commands from 1 to 14. (**Don't do commnand 15!**) The TAs will watch the video, 
-and they will check in your home directories to see if you did everything correctly. Submit the video to canvas.
+Once you've practiced all the commands above, and you feel like you can do everything without looking and thinking too hard, start from command 1, 
+and take a video of your screen showing you executing all the commands from 1 to 14. (**Don't do commnand 15!**). Submit the video to canvas.
 
 [Instructions for different ways to do video screen capture on Mac.](https://support.apple.com/en-us/HT208721)
 
