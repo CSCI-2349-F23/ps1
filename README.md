@@ -60,7 +60,7 @@ One of the following things should get ssh ready to go. Unfortunately, since Win
 #### 4c. Using ssh to connect to the linux server.
 After getting yourself a terminal with the Terminal, WLS, cmd, or Windows Terminal, you should see a prompt. This is what it looks like on my Mac:
 
-
+<img src="terminal.png" width="500">
 
 1. If you are off campus connect to the VPN.
 2. Connect to our linux server by typing the following, replacing `yourusername` with your user name (i.e., what comes before the @ in your BC email address when it's not your full name; in my case, it's `prudhome`).
