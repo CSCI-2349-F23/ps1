@@ -69,7 +69,7 @@ ssh yourusername@cslab.bc.edu
 You are now connected to the CS departmnt's linux server.
 
 ### Part 5: Try out some unix commands!
-You will be using the commands that were demonstrated in class on Wednesday, but you can find information about these commands in the readings and try this our yourself. If you have already taken Computer Systems, this should all be review.
+You will be using the commands that were demonstrated in class on Wednesday, but you can find information about these commands in the readings, through a web search, or using the `man` function on any unix command. If you have already taken Computer Systems, most of this should be review.
 
 1. Print out your current directory.
 2. List the contents of your current directory.
