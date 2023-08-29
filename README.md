@@ -83,7 +83,7 @@ You will be using the commands that were/will be demonstrated in class on Wednes
 6. Move `newfile.txt` to the `my_files` directory.
 7. Move into the `my_files` directory.
 8. Print out the current directory.
-9. Make a copy of `newfile.txt` called `newfile_cooy.txt`.
+9. Make a copy of `newfile.txt` called `newfile_copy.txt`.
 10. Make a new directory inside `my_files` called `copies`.
 11. Move `newfile_copy.txt` to `copies`.
 12. List the contents of the `copies` directory.
