@@ -77,7 +77,7 @@ You will be using the commands that were/will be demonstrated in class on Wednes
 
 1. Print out your current directory.
 2. List the contents of your current directory.
-3. Use `echo` to print out the words "Hello, World!" and direct it to a new file called `newfile.txt`.
+3. Use `echo` to print out the words "Hello, World" and direct it to a new file called `newfile.txt`.
 4. Create a new directory called `my_files`.
 5. List the contents of `my_files`.
 6. Move `newfile.txt` to the `my_files` directory.
